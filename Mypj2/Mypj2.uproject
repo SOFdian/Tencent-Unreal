@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AD684746-4C12-B399-CA83-ACA3F66E1B44}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Mypj2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
